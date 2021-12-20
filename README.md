@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rounak Singh
-- 👀 I’m interested in Artificial Intelligence, Metaverse Hacking.
+- 👀 I’m interested in Artificial Intelligence, Metaverse and Hacking.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me: mail at rounaksinghisc@gmail.com
